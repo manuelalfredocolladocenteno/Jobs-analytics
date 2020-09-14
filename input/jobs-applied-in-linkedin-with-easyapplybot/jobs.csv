@@ -1,0 +1,207 @@
+timestamp,jobID,job,company,attempted,result
+
+2020-09-09 18:01:14.040289,1998149634,Data Analytics / Data Scientist,Evolutio Empowering the cloud,True,True
+
+2020-09-09 18:01:39.009284,2011446983,Data Scientist,Experis Selecciï¿½n,True,True
+
+2020-09-09 18:02:03.471147,2011445130,Data Engineer,SoYou_Bankia,True,True
+
+2020-09-09 18:02:18.523716,1990255850,Data Scientist Junior,Strategy Big Data,False,False
+
+2020-09-09 18:02:44.209952,2011254160,Data Scientist,Daimler Group Services Madrid,True,True
+
+2020-09-09 18:03:09.116529,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,True,True
+
+2020-09-09 18:07:11.327393,1998149634,Data Analytics / Data Scientist,Evolutio Empowering the cloud,False,False
+
+2020-09-09 18:07:26.423756,2011446983,Data Scientist,Experis Selecciï¿½n,False,False
+
+2020-09-09 18:07:42.587940,2011445130,Data Engineer,SoYou_Bankia,False,False
+
+2020-09-09 18:07:58.268704,1990255850,Data Scientist Junior,Strategy Big Data,False,False
+
+2020-09-09 18:08:13.903444,2011254160,Data Scientist,Daimler Group Services Madrid,False,False
+
+2020-09-09 18:08:30.177039,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+
+2020-09-09 18:10:16.243389,2016947813,Big Data Analyst,Claire Joster,True,True
+
+2020-09-09 18:10:41.149422,2011268679,Business Analyst - Behaviour Driven Development (BDD),everis,True,True
+
+2020-09-09 18:11:17.112684,2011363922,"Data Analyst, SAS Programming - Python",IQVIA,True,False
+
+2020-09-09 18:11:43.087173,2011531158,Technical Business Analyst,Randstad Espaï¿½a,True,True
+
+2020-09-09 18:12:09.343841,2011286105,Data Analyst Customer Interaction,ING Espaï¿½a&Portugal,True,True
+
+2020-09-09 18:12:34.682567,1964142682,Data Analyst - 6 month Contract - Large Tech Company - Madrid,Orbis Consultants,True,True
+
+2020-09-09 18:14:21.332976,2011285318,Data Engineer,Paradigma Digital,True,True
+
+2020-09-09 18:14:47.636636,1697747240,Software Engineer,"CDS, a Hewlett Packard Enterprise company",True,True
+
+2020-09-09 18:15:13.042652,1988620393,DevOps Engineer,e-Frontiers Ltd,True,True
+
+2020-09-09 18:15:28.769474,2011445130,Data Engineer,SoYou_Bankia,False,False
+
+2020-09-09 18:16:00.556678,1998149620,Senior Embedded Software Engineer,Mercury Systems,True,False
+
+2020-09-09 18:16:33.901137,2022123615,Big Data Engineer,ADEREN,True,True
+
+2020-09-10 12:49:50.333197,2011446983,Data Scientist,Experis Selección,False,False
+2020-09-10 12:50:05.961709,2011445130,Data Engineer,SoYou_Bankia,False,False
+2020-09-10 12:50:31.393229,1954005134,Cloud Data Engineer Azure,everis,True,True
+2020-09-10 12:50:46.854802,2011254160,Data Scientist,Daimler Group Services Madrid,False,False
+2020-09-10 12:51:02.168592,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-10 12:52:51.142797,1908881506,Java Software Engineer,May Business Consulting,True,False
+2020-09-10 12:53:06.589723,2011445130,Data Engineer,SoYou_Bankia,False,False
+2020-09-10 12:53:32.118901,2011521423,Desarrollador Big Data,StratioBD,True,True
+2020-09-10 12:54:01.023130,2011545333,Data Engineer,Business & Decision,True,False
+2020-09-10 12:54:31.168626,1990129436,Data Engineer,Ontruck,True,True
+2020-09-10 12:55:00.799135,2023613246,Data Engineer,YGroup Companies,True,False
+2020-09-10 12:55:16.238767,2022123615,Big Data Engineer,ADEREN,False,False
+2020-09-10 12:56:51.799141,2002165349,Programador Python,Innova-tsn,False,False
+2020-09-10 12:57:17.267266,1958222087,Full Stack - Front (Python),Strategy Big Data,True,True
+2020-09-10 12:57:32.459786,1990255850,Data Scientist Junior,Strategy Big Data,False,False
+2020-09-10 12:57:47.876923,2011363922,"Data Analyst, SAS Programming - Python",IQVIA,False,False
+2020-09-10 12:58:16.841186,2018502933,Java developer con interés en Big Data,Datio Big Data,True,False
+2020-09-10 12:58:42.434863,2008048699,Python Developer,ferret go GmbH,True,True
+2020-09-10 12:59:12.300650,2011134365,Business Intelligence Analyst,JUST EAT,True,True
+2020-09-10 13:01:17.268761,2019311627,Business Intelligence Developer,Plain Concepts,True,True
+2020-09-10 13:01:47.070681,2010509874,Reporting & BI Analyst,ECB Engineering Firm,True,True
+2020-09-10 13:02:02.155890,2011176088,Arquitecto de Datos BI,UNIR - La Universidad en Internet,False,False
+2020-09-10 13:02:17.427306,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-10 13:02:32.904483,2012647515,Business Intelligence Consultant,Visualitics,False,False
+2020-09-10 13:02:48.005769,2011134365,Business Intelligence Analyst,JUST EAT,False,False
+2020-09-10 13:03:15.020519,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,True,False
+2020-09-10 13:04:58.983177,1909875266,"Director, Solution Consulting",Pegasystems,True,True
+2020-09-10 13:05:13.905437,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-10 13:05:40.127489,2011244008,Senior Data Analyst (FTTH Telco),Arca.,True,True
+2020-09-10 13:05:55.447970,2011363922,"Data Analyst, SAS Programming - Python",IQVIA,False,False
+2020-09-10 13:06:10.771972,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-10 13:06:26.025444,1964142682,Data Analyst - 6 month Contract - Large Tech Company - Madrid,Orbis Consultants,False,False
+2020-09-11 13:16:27.278338,2010185154,DevOps Engineer,SoYou_Bankia,True,True
+2020-09-11 13:16:42.562855,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-11 13:17:09.030587,1989041641,BIG DATA ARCHITECT,Majorel Spain Job,True,True
+2020-09-11 13:17:24.891482,1990255850,Data Scientist Junior,Strategy Big Data,False,False
+2020-09-11 13:17:55.980110,2022995533,Desarrollador BI - Microstrategy,Innova-tsn,True,True
+2020-09-11 13:18:21.804628,2011562450,Ingeniero/a de datos,Empresa Confidencial,True,True
+2020-09-11 13:18:48.149900,2011593333,Programador SQL,BNP Paribas Personal Finance,True,True
+2020-09-11 13:20:42.234973,2022325025,Information Technology Business Analyst,Net Talent,True,True
+2020-09-11 13:20:57.512172,1909875266,"Director, Solution Consulting",Pegasystems,False,False
+2020-09-11 13:21:13.647288,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-11 13:21:29.171553,2011363922,Data Analyst German Speaker,IQVIA,False,False
+2020-09-11 13:21:55.218670,2023671541,Statistical Analyst/DBA,IRIUM,True,True
+2020-09-11 13:22:12.139036,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-11 13:23:59.532420,2006520930,Senior Data Engineer - Digital Hub,Ferrovial,True,True
+2020-09-11 13:24:14.866790,2011285318,Data Engineer,Paradigma Digital,False,False
+2020-09-11 13:24:41.354935,1991159116,Data Integration Engineer (ETL),Hays,True,True
+2020-09-11 13:25:13.744466,1990942383,Data Engineer,Montarelo Consulting,True,False
+2020-09-11 13:25:40.318900,1989511155,Data Engineer BI BigData,Linea Directa Aseguradora,True,True
+2020-09-11 13:26:12.512851,2011545333,Data Engineer,Business & Decision,True,False
+2020-09-11 13:26:28.768899,1990129436,Data Engineer,Ontruck,False,False
+2020-09-11 13:28:06.623872,2006520930,Senior Data Engineer - Digital Hub,Ferrovial,False,False
+2020-09-11 13:28:23.384125,1990255850,Data Scientist Junior,Strategy Big Data,False,False
+2020-09-11 13:28:39.296777,2010779052,Junior Data Scientist - R&D Engineer,Pix4D,False,False
+2020-09-11 13:29:09.313068,1990942383,Data Engineer,Montarelo Consulting,True,False
+2020-09-11 13:29:25.464906,2011254160,Data Scientist,Daimler Group Services Madrid,False,False
+2020-09-11 13:29:52.513601,2002030870,Data Scientist,SoYou_Bankia,True,True
+2020-09-11 13:30:09.048207,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-11 13:31:54.785979,2150330727,Power BI Consultant,Bluetab Solutions,True,True
+2020-09-11 13:32:10.241819,1997539687,Consultor/a Power BI,DXC Technology,False,False
+2020-09-11 13:32:25.542101,2022995533,Desarrollador BI - Microstrategy,Innova-tsn,False,False
+2020-09-11 13:32:41.094479,2010335374,Visualización Azure Power Bi,everis,False,False
+2020-09-11 13:32:56.544822,2011176088,Arquitecto de Datos BI,UNIR - La Universidad en Internet,False,False
+2020-09-11 13:33:12.164168,2012647515,Business Intelligence Consultant,Visualitics,False,False
+2020-09-11 13:33:27.232754,2011134365,Business Intelligence Analyst,JUST EAT,False,False
+2020-09-12 16:58:38.439191,2011562592,Beca Big Data. Scala Spark,Capgemini,True,True
+2020-09-12 16:58:54.789153,1998149634,Data Analytics / Data Scientist,Evolutio Empowering the cloud,False,False
+2020-09-12 16:59:20.821654,2019339369,Programador Java-Spark (Big Data),FDS a DXC Technology Company,True,True
+2020-09-12 16:59:50.638037,2023684690,Data Engineer,Sogeti,True,True
+2020-09-12 17:00:20.216490,2011545333,Data Engineer,Business & Decision,True,False
+2020-09-12 17:00:35.259332,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-12 17:02:11.973387,2002165349,Programador Python,Innova-tsn,False,False
+2020-09-12 17:02:26.972861,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-12 17:02:42.078110,2022995533,Desarrollador BI - Microstrategy,Innova-tsn,False,False
+2020-09-12 17:02:58.041883,2011562450,Ingeniero/a de datos,Empresa Confidencial,False,False
+2020-09-12 17:03:23.907255,2008119100,Artificial Intelligence Strategy Analyst,everis,True,True
+2020-09-12 17:03:53.146195,2023613246,Data Engineer,YGroup Companies,True,False
+2020-09-12 17:05:27.480125,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-09-12 17:05:42.717600,2010335374,Visualización Azure Power Bi,everis,False,False
+2020-09-12 17:05:58.323428,2011562450,Ingeniero/a de datos,Empresa Confidencial,False,False
+2020-09-12 17:06:13.517899,2011176088,Arquitecto de Datos BI,UNIR - La Universidad en Internet,False,False
+2020-09-12 17:06:29.013393,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-12 17:06:44.480768,2012647515,Business Intelligence Consultant,Visualitics,False,False
+2020-09-12 17:08:36.706618,2006296448,IT Business Analyst (Feature Engineer),ING España&Portugal,True,True
+2020-09-12 17:08:51.976812,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-12 17:09:07.156736,2011268679,Business Analyst - Behaviour Driven Development (BDD),everis,False,False
+2020-09-12 17:09:22.376473,2011244008,Senior Data Analyst (FTTH Telco),Arca.,False,False
+2020-09-12 17:09:36.966857,2023671541,Statistical Analyst/DBA,IRIUM,False,False
+2020-09-12 17:09:51.734127,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-12 17:11:25.680989,1697747240,Software Engineer,"CDS, a Hewlett Packard Enterprise company",False,False
+2020-09-12 17:11:41.038110,2011521423,Desarrollador Big Data,StratioBD,False,False
+2020-09-12 17:12:10.452249,1944172847,Software Engineer,VIPERA Plc,True,False
+2020-09-12 17:12:25.904900,2023684690,Data Engineer,Sogeti,False,False
+2020-09-12 17:12:54.465779,2011545333,Data Engineer,Business & Decision,True,False
+2020-09-12 17:13:24.170195,2023613246,Data Engineer,YGroup Companies,True,False
+2020-09-13 19:30:30.491308,1998149634,Data Analytics / Data Scientist,Evolutio Empowering the cloud,False,False
+2020-09-13 19:30:46.065374,2006520930,Senior Data Engineer - Digital Hub,Ferrovial,False,False
+2020-09-13 19:31:01.098168,2023684690,Data Engineer,Sogeti,False,False
+2020-09-13 19:31:31.882991,2011545333,Data Engineer,Business & Decision,True,False
+2020-09-13 19:31:56.542787,2011330357,Data Engineer Azure (100% telecommuting),UST Global España,True,True
+2020-09-13 19:32:11.685568,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-13 19:33:47.066723,1909875266,"Director, Solution Consulting",Pegasystems,False,False
+2020-09-13 19:34:01.974528,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-13 19:34:17.224957,2011268679,Business Analyst - Behaviour Driven Development (BDD),everis,False,False
+2020-09-13 19:34:32.050641,2023671541,Statistical Analyst/DBA,IRIUM,False,False
+2020-09-13 19:34:47.306715,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-13 19:35:02.590592,1964142682,Data Analyst - 6 month Contract - Large Tech Company - Madrid,Orbis Consultants,False,False
+2020-09-13 19:36:36.848686,1909875266,"Director, Solution Consulting",Pegasystems,False,False
+2020-09-13 19:36:52.158617,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-09-13 19:37:21.985238,2011594864,Comercial Senior IT - Business Developer IT,Grupo ICA,True,False
+2020-09-13 19:37:37.252680,2011562450,Ingeniero/a de datos,Empresa Confidencial,False,False
+2020-09-13 19:37:52.181205,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-13 19:38:06.970451,2011134365,Business Intelligence Analyst,JUST EAT,False,False
+2020-09-13 19:39:41.997811,2002165349,Programador Python,Innova-tsn,False,False
+2020-09-13 19:40:07.310070,1912560905,NLP platform developer,Savana Médica,True,True
+2020-09-13 19:40:22.629799,2011562450,Ingeniero/a de datos,Empresa Confidencial,False,False
+2020-09-13 19:40:52.760317,1989263961,Programador Blockchain,Gfi España,True,True
+2020-09-13 19:41:21.197525,2023613246,Data Engineer,YGroup Companies,True,False
+2020-09-13 19:43:05.696901,2002029167,Software Engineer Blockchain,Experis España,True,True
+2020-09-13 19:43:20.589182,2023684690,Data Engineer,Sogeti,False,False
+2020-09-13 19:43:35.530194,1989511155,Data Engineer BI BigData,Linea Directa Aseguradora,False,False
+2020-09-13 19:44:05.837275,2011545333,Data Engineer,Business & Decision,True,False
+2020-09-13 19:44:34.903809,2013499512,Java Software Engineer,Innovery España S.L.U.,True,False
+2020-09-13 19:45:03.973088,2009559130,Rendering Software Engineer,SEDDI,True,False
+2020-09-13 19:45:32.582165,2023613246,Data Engineer,YGroup Companies,True,False
+2020-09-14 13:42:07.717491,2002165349,Programador Python,Innova-tsn,False,False
+2020-09-14 13:42:23.371758,1958222087,Full Stack - Front (Python),Strategy Big Data,False,False
+2020-09-14 13:42:52.088054,2011635112,DESARROLLADOR FULL STACK,Global Alumni,True,False
+2020-09-14 13:43:07.284609,2011593333,Programador SQL,BNP Paribas Personal Finance,False,False
+2020-09-14 13:43:33.226509,2011383542,Senior Fullstack Developer (Python),Claire Joster,True,True
+2020-09-14 13:44:03.841431,2023613246,Data Engineer,YGroup Companies,True,False
+2020-09-14 13:45:53.296775,1908881506,Java Software Engineer,May Business Consulting,True,False
+2020-09-14 13:46:08.575023,1697747240,Software Engineer,"CDS, a Hewlett Packard Enterprise company",False,False
+2020-09-14 13:46:38.149660,1912568843,Data Engineer (Open to Remote working),Savana Médica,True,False
+2020-09-14 13:47:02.966891,2011137934,DATA ENGINEER SPARK + HADOOP,SICPA,True,True
+2020-09-14 13:47:18.131690,2023684690,Data Engineer,Sogeti,False,False
+2020-09-14 13:47:46.872031,2011545333,Data Engineer,Business & Decision,True,False
+2020-09-14 13:48:15.561300,2023613246,Data Engineer,YGroup Companies,True,False
+2020-09-14 13:49:51.025211,1909875266,"Director, Solution Consulting",Pegasystems,False,False
+2020-09-14 13:50:06.145852,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-14 13:50:21.177130,2011244008,Senior Data Analyst (FTTH Telco),Arca.,False,False
+2020-09-14 13:50:36.685143,2011363922,Data Analyst German Speaker,IQVIA,False,False
+2020-09-14 13:51:05.898657,2011631796,BUSINESS ANALYST,Axactor Spain,True,False
+2020-09-14 13:51:30.633124,2023817017,Business Analyst,Orbis Consultants,True,True
+2020-09-14 13:53:04.311116,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-09-14 13:53:19.400179,2010335374,Visualización Azure Power Bi,everis,False,False
+2020-09-14 13:53:45.172514,2019371674,Cyber Security Architect / Consultant,Airbus,True,True
+2020-09-14 13:54:00.210691,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-14 13:54:15.240121,2012647515,Business Intelligence Consultant,Visualitics,False,False
+2020-09-14 13:54:30.475301,2011134365,Business Intelligence Analyst,JUST EAT,False,False
+2020-09-14 13:56:27.080113,2150260899,Computer Vision/ Machine Learning Engineer,Geomni UK,True,False
+2020-09-14 13:56:51.678253,2013766822,Senior data scientist - + 4 years exp (till end of 2021),Montreal Associates,True,True
+2020-09-14 13:57:16.209597,1809141101,Junior Technology Consultant,Minsait,True,True
+2020-09-14 13:57:31.162852,1954005134,Cloud Data Engineer Azure,everis,False,False
+2020-09-14 13:58:01.348384,2011545333,Data Engineer,Business & Decision,True,False
+2020-09-14 13:58:16.462993,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
