@@ -424,3 +424,34 @@ timestamp,jobID,job,company,attempted,result
 
 2020-09-15 13:32:53.128463,2009559130,Rendering Software Engineer,SEDDI,True,False
 
+2020-09-16 13:14:40.182724,1998149634,Data Analytics / Data Scientist,Evolutio Empowering the cloud,False,False
+2020-09-16 13:15:05.945553,2023915044,Data Scientist,Endesa,True,True
+2020-09-16 13:15:37.168264,1881484391,Data Engineer,Empathy.co,True,False
+2020-09-16 13:15:52.951552,2019339369,Programador Java-Spark (Big Data),FDS a DXC Technology Company,False,False
+2020-09-16 13:16:19.234808,2023883345,Data Science / Big Data,Agile Talent Spain,True,True
+2020-09-16 13:16:34.931289,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-16 13:18:12.779607,2023915044,Data Scientist,Endesa,False,False
+2020-09-16 13:18:43.464494,1881484391,Data Engineer,Empathy.co,True,False
+2020-09-16 13:19:13.971227,1990942383,Data Engineer,Montarelo Consulting,True,False
+2020-09-16 13:19:42.657033,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-16 13:20:15.966818,2011545333,Data Engineer,Business & Decision,True,True
+2020-09-16 13:20:42.300133,2011445534,Big Data Developer - AWS (Madrid or Sevilla),Fujitsu,True,True
+2020-09-16 13:22:24.021148,1909875266,"Director, Solution Consulting",Pegasystems,False,False
+2020-09-16 13:22:39.395671,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-16 13:22:55.193026,2011244008,Senior Data Analyst (FTTH Telco),Arca.,False,False
+2020-09-16 13:23:28.794437,1680662672,Junior Insurance Business Analyst/Actuary (M/F) Insurance Software Industry - Madrid,msg life Iberia,True,True
+2020-09-16 13:23:44.593471,2011363922,Data Analyst German Speaker,IQVIA,False,False
+2020-09-16 13:24:14.420146,2011631796,BUSINESS ANALYST,Axactor Spain,True,False
+2020-09-16 13:24:29.906904,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-16 13:26:06.886258,2023915044,Data Scientist,Endesa,False,False
+2020-09-16 13:26:21.956551,2011648007,BI DEVELOPER,IECISA,False,False
+2020-09-16 13:26:52.673069,1881484391,Data Engineer,Empathy.co,True,True
+2020-09-16 13:27:07.397299,2019339369,Programador Java-Spark (Big Data),FDS a DXC Technology Company,False,False
+2020-09-16 13:27:36.522791,2011394039,Programador Full-Stack,BBVA IT España,True,False
+2020-09-16 13:28:07.124233,2023884093,Desarrollador de Python,ALTEN,True,False
+2020-09-16 13:29:43.898979,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-09-16 13:29:59.110455,2019311627,Business Intelligence Developer,Plain Concepts,False,False
+2020-09-16 13:30:14.162061,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-16 13:30:29.417692,2011134365,Business Intelligence Analyst,JUST EAT,False,False
+2020-09-16 13:30:57.265504,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,True,False
+2020-09-16 13:31:21.946398,2004842911,Business Intelligence & JS developer (100% remote),UST Global España,True,True
