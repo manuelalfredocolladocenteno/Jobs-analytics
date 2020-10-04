@@ -659,3 +659,459 @@ timestamp,jobID,job,company,attempted,result
 2020-09-22 13:19:54.194411,2023877325,DevOps Cloud Engineer,Hiberus Tecnología,False,False
 2020-09-22 13:20:10.954725,2023884093,Desarrollador de Python,ALTEN,False,False
 2020-09-22 13:22:02.625743,1989064235,Staff Software Engineer - Data Engineering,Credijusto.com,True,False
+2020-09-23 13:20:52.720872,1990005987,Software Engineer - Continuous Integration,Devoteam,True,False
+2020-09-23 13:21:10.456225,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-23 13:21:44.350245,2149648977,Software Engineer (Remote),Alooba,True,True
+2020-09-23 13:21:59.611610,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-23 13:22:15.847533,2011704341,Data Engineer,DOCOMO Digital,False,False
+2020-09-23 13:22:40.824223,2011634714,Software Engineer (Spring),Hortor Limited,True,True
+2020-09-23 13:24:53.908311,2010905639,ETL Developer,SGS,True,True
+2020-09-23 13:25:19.758071,2171681352,Arquitecto de datos,EVO Banco,True,True
+2020-09-23 13:25:44.573918,2150705548,DataStage Consultant,Altran,True,True
+2020-09-23 13:26:00.240757,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-23 13:26:15.904430,2012647515,Business Intelligence Consultant,Visualitics,False,False
+2020-09-23 13:26:44.239587,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,True,False
+2020-09-23 13:28:23.265081,2011773761,Analista de Datos BI,Randstad España,False,False
+2020-09-23 13:28:38.793003,2011268679,Business Analyst - Behaviour Driven Development (BDD),everis,False,False
+2020-09-23 13:28:54.515555,2011363922,Data Analyst German Speaker,IQVIA,False,False
+2020-09-23 13:29:30.035428,2011631796,BUSINESS ANALYST,Axactor Spain,True,True
+2020-09-23 13:29:46.238074,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-23 13:30:03.694417,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-23 13:30:29.090486,2025102267,Elearning specialist & Learning Data Analyst -ID: 20000A1X,Prosegur,True,True
+2020-09-23 13:32:08.743281,2011773761,Analista de Datos BI,Randstad España,False,False
+2020-09-23 13:32:24.230306,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-09-23 13:32:40.218276,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-23 13:32:55.952930,2011641906,Business Intelligence Team Lead,Strategy Big Data,False,False
+2020-09-23 13:33:12.486625,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-23 13:33:42.005271,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,True,False
+2020-09-23 13:35:22.690762,2151050529,Python Developer,Sngular,False,False
+2020-09-23 13:35:39.009359,2023915044,Data Scientist,Endesa,False,False
+2020-09-23 13:35:55.314078,2023877325,DevOps Cloud Engineer,Hiberus Tecnología,False,False
+2020-09-23 13:36:10.865145,2011703320,Python Developer - Django,Mr. Milú,False,False
+2020-09-23 13:36:27.534043,2023884093,Desarrollador de Python,ALTEN,False,False
+2020-09-23 13:38:15.575719,2151057146,Big Data Engineer,Bluetab Solutions,True,True
+2020-09-23 13:38:30.327761,1809141101,Junior Technology Consultant,Minsait,False,False
+2020-09-23 13:38:45.590492,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-23 13:39:12.742339,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-23 13:39:38.704875,2150448658,Data Engineer,Majorel Spain Job,True,True
+2020-09-23 13:39:53.744774,2010892918,Consultor Data Science,May Business Consulting,False,False
+2020-09-23 13:40:08.782732,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-24 13:35:12.591522,1993609927,Software Engineer in Test,Nexthink,True,True
+2020-09-24 13:35:28.613716,1989064235,Staff Software Engineer - Data Engineering,Credijusto.com,False,False
+2020-09-24 13:35:44.352592,2011690385,Data Architect & Data Engineer,Grupo Ontwice,False,False
+2020-09-24 13:36:11.785083,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-24 13:36:27.101176,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-24 13:36:57.136441,2150622875,Data Engineer,Datatonic,True,False
+2020-09-24 13:38:46.774921,2011522595,Consultor/a Senior BI,Prodware,True,True
+2020-09-24 13:39:11.358175,2011249221,Consultor Senior Powercenter,Business & Decision,True,True
+2020-09-24 13:39:26.606778,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-09-24 13:39:41.744985,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-24 13:39:57.497183,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-24 13:40:13.153818,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-24 13:41:51.203552,2025285858,Data Analyst,Keepler Data Tech,False,False
+2020-09-24 13:42:06.358519,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-24 13:42:22.420114,2010905639,ETL Developer,SGS,False,False
+2020-09-24 13:42:37.616136,2171681352,Arquitecto de datos,EVO Banco,False,False
+2020-09-24 13:43:08.271046,2151061551,Enterprise Data Architect,Beam Suntory,True,False
+2020-09-24 13:43:38.353496,2150622875,Data Engineer,Datatonic,True,False
+2020-09-24 13:43:53.290415,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-24 13:45:31.012430,2151050529,Python Developer,Sngular,False,False
+2020-09-24 13:45:57.102553,2151071825,Full stack,"CDS, a Hewlett Packard Enterprise company",True,True
+2020-09-24 13:46:12.360953,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-24 13:46:36.926817,2025281911,Junior Backend Developer,reclamador,True,True
+2020-09-24 13:46:52.034310,2170764797,Ingeniero técnico de datos /Data Scientist. Spark y Python,Ciber Spain,False,False
+2020-09-24 13:47:16.902676,2171597663,Ingeniero de Software Embebido C/C++ y aplicaciones de escritorio,Novabase,True,True
+2020-09-24 13:48:55.476190,2023915044,Data Scientist,Endesa,False,False
+2020-09-24 13:49:29.744955,2150497607,Head of Data Science,Omnidoctor,True,True
+2020-09-24 13:49:44.841117,1809141101,Junior Technology Consultant,Minsait,False,False
+2020-09-24 13:50:00.191247,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-24 13:50:28.127567,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-24 13:50:43.256203,2011330357,Data Engineer Azure (100% telecommuting),UST Global España,False,False
+2020-09-24 13:52:32.673523,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-09-24 13:52:47.508261,2011363922,Data Analyst German Speaker,IQVIA,False,False
+2020-09-24 13:53:12.841423,2006326354,"Senior Fullstack developer (Ruby, Node.js, +react)",Randstad,True,True
+2020-09-24 13:53:28.407503,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-24 13:53:43.480653,2011631796,BUSINESS ANALYST,Axactor Spain,False,False
+2020-09-24 13:53:58.835975,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-24 13:54:14.204287,1830546940,Digital Analyst. Adobe Analytics / Google Analytics,everis,False,False
+2020-09-25 13:32:43.197583,2151055520,Jefe/a de Proyecto BI PowerCenter,Gfi España,False,False
+2020-09-25 13:32:57.420765,1953168162,BI Developer,OSP – Otto Group Solution Provider,False,False
+2020-09-25 13:33:11.343080,2010905639,ETL Developer,SGS,False,False
+2020-09-25 13:33:25.419330,2171681352,Arquitecto de datos,EVO Banco,False,False
+2020-09-25 13:33:39.109867,2151269129,Consultor ETL/BI_PowerCenter,NEORIS,False,False
+2020-09-25 13:34:06.912942,2150622875,Data Engineer,Datatonic,True,False
+2020-09-25 13:34:20.490020,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-25 13:36:03.491748,2172760481,Big Data Cloudera System Engineer,PUE,True,True
+2020-09-25 13:36:17.742407,1989064235,Staff Software Engineer - Data Engineering,Credijusto.com,False,False
+2020-09-25 13:43:15.556313,2172760481,Big Data Cloudera System Engineer,PUE,False,False
+2020-09-25 13:43:29.793136,1989064235,Staff Software Engineer - Data Engineering,Credijusto.com,False,False
+2020-09-25 13:46:16.651776,2025276865,DevOps Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-25 13:46:30.886570,2151050529,Python Developer,Sngular,False,False
+2020-09-25 13:46:44.658922,2023877325,DevOps Cloud Engineer,Hiberus Tecnología,False,False
+2020-09-25 13:46:58.888764,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-25 13:47:28.388451,2150622875,Data Engineer,Datatonic,True,False
+2020-09-25 13:49:00.889865,2025285858,Data Analyst,Keepler Data Tech,False,False
+2020-09-25 13:49:26.184103,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-09-25 13:49:39.796442,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-25 13:49:53.985952,2174278923,Business Analyst,Fintonic,False,False
+2020-09-25 13:50:08.410431,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-25 13:50:32.333086,2173221016,Lending Business Analyst,duonet,True,True
+2020-09-25 13:50:46.057142,2173298905,Analista de Datos - Zity,Ferrovial,False,False
+2020-09-25 13:52:18.552410,2151055520,Jefe/a de Proyecto BI PowerCenter,Gfi España,False,False
+2020-09-25 13:52:32.401276,1953168162,BI Developer,OSP – Otto Group Solution Provider,False,False
+2020-09-25 13:52:46.329570,2171681352,Arquitecto de datos,EVO Banco,False,False
+2020-09-25 13:53:00.156393,2151269129,Consultor ETL/BI_PowerCenter,NEORIS,False,False
+2020-09-25 13:53:13.673428,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-25 13:53:41.797605,2150622875,Data Engineer,Datatonic,True,False
+2020-09-25 13:53:55.513715,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-25 13:55:40.213464,2151153419,Senior Data Scientist,Innova-tsn,True,True
+2020-09-25 13:56:08.398135,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-25 13:56:22.873929,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-25 13:56:38.132343,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-25 13:57:06.910323,2150622875,Data Engineer,Datatonic,True,False
+2020-09-25 13:58:42.562149,2151055520,Jefe/a de Proyecto BI PowerCenter,Gfi España,False,False
+2020-09-25 13:58:56.771269,1953168162,BI Developer,OSP – Otto Group Solution Provider,False,False
+2020-09-25 13:59:11.674611,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-09-25 13:59:26.492508,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-25 13:59:40.878197,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-25 14:00:11.825239,2151273785,Business Intelligence Director,JUST EAT,True,True
+2020-09-25 14:00:26.553281,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-25 14:02:03.632726,2172760481,Big Data Cloudera System Engineer,PUE,False,False
+2020-09-25 14:02:18.976360,1989064235,Staff Software Engineer - Data Engineering,Credijusto.com,False,False
+2020-09-25 14:02:34.141155,2011690385,Data Architect & Data Engineer,Grupo Ontwice,False,False
+2020-09-25 14:03:01.646605,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-25 14:03:16.531978,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-25 14:03:46.267770,2150622875,Data Engineer,Datatonic,True,False
+2020-09-25 14:04:19.279510,2151272862,Software Engineer Manager,ING España&Portugal,True,True
+2020-09-26 18:44:04.973697,1991162242,Desarrollador Big Data,FDS a DXC Technology Company,True,True
+2020-09-26 18:44:19.466653,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-09-26 18:44:33.205437,1809141101,Junior Technology Consultant,Minsait,False,False
+2020-09-26 18:44:47.415374,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-26 18:45:15.910051,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-26 18:45:29.578726,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-26 18:47:02.668545,2025285858,Data Analyst,Keepler Data Tech,False,False
+2020-09-26 18:47:16.365599,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-26 18:47:30.556662,2010905639,ETL Developer,SGS,False,False
+2020-09-26 18:47:59.052731,2151061551,Enterprise Data Architect,Beam Suntory,True,False
+2020-09-26 18:48:27.506003,2150622875,Data Engineer,Datatonic,True,False
+2020-09-26 18:48:43.837959,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-26 18:50:26.883750,2150690825,Experto visión artificial / machine learning (Drones),everis,True,True
+2020-09-26 18:50:56.407034,2174555178,Ingeniero de Datos Maestros,GRUPO SOLUTIO,True,True
+2020-09-26 18:51:10.086155,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-26 18:51:24.025469,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-26 18:51:38.535264,2174579993,Científico de datos,Entelgy,False,False
+2020-09-26 18:52:05.855164,2150622875,Data Engineer,Datatonic,True,False
+2020-09-26 18:52:19.598029,2171597663,Ingeniero de Software Embebido C/C++ y aplicaciones de escritorio,Novabase,False,False
+2020-09-26 18:54:03.585284,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-09-26 18:54:17.354507,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-26 18:54:31.360703,2006326354,"Senior Fullstack developer (Ruby, Node.js, +react)",Randstad,False,False
+2020-09-26 18:54:45.321866,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-26 18:54:59.198942,2173221016,Lending Business Analyst,duonet,False,False
+2020-09-26 18:55:13.284659,2173298905,Analista de Datos - Zity,Ferrovial,False,False
+2020-09-26 18:55:27.535243,2011706044,Banking Technical Lead,SoYou_Bankia,False,False
+2020-09-26 18:56:59.516252,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-26 18:57:25.607906,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-26 18:57:50.090092,2151283924,Data Streaming Engineer,Akka Technologies,True,True
+2020-09-26 18:58:03.853258,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-26 18:58:17.533240,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-26 18:58:47.001446,2150622875,Data Engineer,Datatonic,True,False
+2020-09-26 18:59:11.347732,2150790878,C++ Software Engineer: Robotics & Automotive,eProsima,True,True
+2020-09-26 19:00:44.143636,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-26 19:00:57.991691,2011641906,Business Intelligence Team Lead,Strategy Big Data,False,False
+2020-09-26 19:01:12.437521,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-26 19:01:26.054063,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-26 19:01:39.851669,2151273785,Business Intelligence Director,JUST EAT,False,False
+2020-09-26 19:01:53.996165,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-26 19:08:49.129884,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-26 19:09:15.825447,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-26 19:09:29.776130,2151283924,Data Streaming Engineer,Akka Technologies,False,False
+2020-09-26 19:09:46.536466,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-26 19:10:00.732003,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-26 19:10:29.128141,2150622875,Data Engineer,Datatonic,True,False
+2020-09-26 19:10:43.363196,2150790878,C++ Software Engineer: Robotics & Automotive,eProsima,False,False
+2020-09-26 19:12:16.225978,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-26 19:12:29.870985,2011641906,Business Intelligence Team Lead,Strategy Big Data,False,False
+2020-09-26 19:12:43.830704,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-26 19:12:57.790196,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-26 19:13:11.629830,2151273785,Business Intelligence Director,JUST EAT,False,False
+2020-09-26 19:13:26.159289,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-26 19:14:59.803453,2150690825,Experto visión artificial / machine learning (Drones),everis,False,False
+2020-09-26 19:15:14.022308,2174555178,Ingeniero de Datos Maestros,GRUPO SOLUTIO,False,False
+2020-09-26 19:15:27.625332,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-26 19:15:41.347671,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-26 19:15:55.467821,2174579993,Científico de datos,Entelgy,False,False
+2020-09-26 19:16:23.459648,2150622875,Data Engineer,Datatonic,True,False
+2020-09-26 19:16:37.123122,2171597663,Ingeniero de Software Embebido C/C++ y aplicaciones de escritorio,Novabase,False,False
+2020-09-26 19:18:21.590959,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-09-26 19:18:35.406342,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-26 19:18:49.423504,2006326354,"Senior Fullstack developer (Ruby, Node.js, +react)",Randstad,False,False
+2020-09-26 19:19:03.300337,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-26 19:19:17.452033,2173221016,Lending Business Analyst,duonet,False,False
+2020-09-26 19:19:35.600790,2173298905,Analista de Datos - Zity,Ferrovial,False,False
+2020-09-26 19:19:49.241977,2011706044,Banking Technical Lead,SoYou_Bankia,False,False
+2020-09-26 19:21:21.623437,2025285858,Data Analyst,Keepler Data Tech,False,False
+2020-09-26 19:21:35.446716,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-26 19:21:49.325824,2171681352,Arquitecto de datos,EVO Banco,False,False
+2020-09-26 19:22:18.551719,2151061551,Enterprise Data Architect,Beam Suntory,True,False
+2020-09-26 19:22:46.089889,2150622875,Data Engineer,Datatonic,True,False
+2020-09-26 19:22:59.672846,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-26 19:24:32.351677,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-09-26 19:24:46.198561,1809141101,Junior Technology Consultant,Minsait,False,False
+2020-09-27 17:39:39.527608,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-27 17:39:54.114916,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-09-27 17:40:24.238084,2151220200,Ingenier@ Optimización TV,Arca.,True,True
+2020-09-27 17:40:37.835462,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-27 17:40:51.851291,2151273785,Business Intelligence Director,JUST EAT,False,False
+2020-09-27 17:41:06.304594,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-27 17:42:50.663503,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-09-27 17:43:04.514382,2173298905,Analista de Datos - Zity,Ferrovial,False,False
+2020-09-27 17:43:18.404547,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-27 17:43:32.785768,2170545204,Data Analyst,Cefetra Ibérica,False,False
+2020-09-27 17:43:46.801863,2173221016,Lending Business Analyst,duonet,False,False
+2020-09-27 17:44:00.892748,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-27 17:45:33.558180,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-09-27 17:45:47.244594,1809141101,Junior Technology Consultant,Minsait,False,False
+2020-09-27 17:46:13.258472,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-27 17:46:27.106432,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-27 17:46:40.846422,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-27 17:48:14.161737,2170764797,Ingeniero técnico de datos /Data Scientist. Spark y Python,Ciber Spain,False,False
+2020-09-27 17:48:40.749780,2025276865,DevOps Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-27 17:48:54.618709,2023877325,DevOps Cloud Engineer,Hiberus Tecnología,False,False
+2020-09-27 17:49:08.554670,2174579993,Científico de datos,Entelgy,False,False
+2020-09-27 17:50:59.693958,2001220896,Salesforce Vlocity Senior Developer,Tata Consultancy Services,True,True
+2020-09-27 17:51:13.585604,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-27 17:51:27.255997,2171681352,Arquitecto de datos,EVO Banco,False,False
+2020-09-27 17:51:57.166340,2151061551,Enterprise Data Architect,Beam Suntory,True,False
+2020-09-27 17:52:26.371928,2150622875,Data Engineer,Datatonic,True,False
+2020-09-27 17:52:40.092139,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-27 17:54:13.870190,2172760481,Big Data Cloudera System Engineer,PUE,False,False
+2020-09-28 13:11:17.360633,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-28 13:11:47.192780,2150622875,Data Engineer,Datatonic,True,False
+2020-09-28 13:12:02.786166,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-28 13:12:31.351634,2163232635,Senior Software Engineer .NET Core,Bluetab Solutions,True,True
+2020-09-28 13:13:02.870160,2151397692,Analista BI Funcional área Financiero. Ref.747,M2C Consulting,True,True
+2020-09-28 13:13:17.876847,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-28 13:15:08.453361,2151398435,Analista de Datos Ref. 761,M2C Consulting,True,True
+2020-09-28 13:15:23.793670,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-28 13:15:57.450491,2149566214,Senior CMC Data Analyst,mAbxience,True,True
+2020-09-28 13:16:12.595410,2006326354,"Senior Fullstack developer (Ruby, Node.js, +react)",Randstad,False,False
+2020-09-28 13:16:37.384674,2151396982,ION Trading Business Analyst,Qaracter - Beyond your Challenge,True,True
+2020-09-28 13:16:51.794166,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-28 13:17:06.271834,2178599995,Data Analyst,Audalia Nexia,False,False
+2020-09-28 13:18:40.813603,2150497607,Head of Data Science,Omnidoctor,False,False
+2020-09-28 13:18:55.303689,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-09-28 13:19:09.471273,1809141101,Junior Technology Consultant,Minsait,False,False
+2020-09-28 13:19:36.103894,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-28 13:19:50.388978,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-28 13:20:04.654238,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-28 13:21:40.004992,2151398435,Analista de Datos Ref. 761,M2C Consulting,False,False
+2020-09-28 13:21:54.606454,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-28 13:25:06.741763,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-28 13:25:38.453366,2150622875,Data Engineer,Datatonic,True,False
+2020-09-28 13:25:53.974169,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-28 13:26:09.879003,2163232635,Senior Software Engineer .NET Core,Bluetab Solutions,False,False
+2020-09-28 13:26:25.531917,2151397692,Analista BI Funcional área Financiero. Ref.747,M2C Consulting,False,False
+2020-09-28 13:26:41.405689,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-28 13:28:30.225174,2025276865,DevOps Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-28 13:28:45.074040,2023877325,DevOps Cloud Engineer,Hiberus Tecnología,False,False
+2020-09-28 13:29:00.999882,2151071825,Full stack,"CDS, a Hewlett Packard Enterprise company",False,False
+2020-09-28 13:29:15.797569,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-28 13:29:30.816082,2170764797,Ingeniero técnico de datos /Data Scientist. Spark y Python,Ciber Spain,False,False
+2020-09-28 13:31:09.330210,1989064235,Staff Software Engineer - Data Engineering,Credijusto.com,False,False
+2020-09-28 13:31:36.877858,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-28 13:31:52.005913,2151283924,Data Streaming Engineer,Akka Technologies,False,False
+2020-09-28 13:32:07.303887,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-28 13:32:24.980643,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-28 13:32:41.014439,2011634714,Software Engineer (Spring),Hortor Limited,False,False
+2020-09-28 13:34:27.970573,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-09-28 13:34:41.542498,2151398435,Analista de Datos Ref. 761,M2C Consulting,False,False
+2020-09-28 13:34:55.591231,2149566214,Senior CMC Data Analyst,mAbxience,False,False
+2020-09-28 13:35:10.484850,2006326354,"Senior Fullstack developer (Ruby, Node.js, +react)",Randstad,False,False
+2020-09-28 13:35:24.304743,2151396982,ION Trading Business Analyst,Qaracter - Beyond your Challenge,False,False
+2020-09-28 13:35:38.093878,2011286105,Data Analyst Customer Interaction,ING España&Portugal,False,False
+2020-09-28 13:35:52.078595,2178599995,Data Analyst,Audalia Nexia,False,False
+2020-09-28 13:37:24.921961,2151398435,Analista de Datos Ref. 761,M2C Consulting,False,False
+2020-09-28 13:37:38.536403,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-28 13:37:52.520242,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-28 13:38:06.484740,2011641906,Business Intelligence Team Lead,Strategy Big Data,False,False
+2020-09-28 13:38:20.654646,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-28 13:38:34.217476,2151273785,Business Intelligence Director,JUST EAT,False,False
+2020-09-28 13:38:48.245943,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-28 13:40:23.196123,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-09-28 13:40:37.002205,1809141101,Junior Technology Consultant,Minsait,False,False
+2020-09-28 13:41:03.254196,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-28 13:41:27.420281,2011666165,Senior Data Scientist,Paradigma Digital,True,True
+2020-09-28 13:41:41.181189,2011330357,Data Engineer Azure (100% telecommuting),UST Global España,False,False
+2020-09-28 13:41:54.726740,2151282837,Data Scientist / Machine Learning,Capital Energy,False,False
+2020-09-29 13:30:10.253231,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-29 13:30:26.698388,2011648007,BI DEVELOPER SENIOR,IECISA,False,False
+2020-09-29 13:30:43.199205,1862699758,Data Engineer y Experto BI,Ad Maiorem Consulting,False,False
+2020-09-29 13:30:59.346737,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-29 13:31:26.210057,1997488020,Data Governance Expert,ING España&Portugal,True,True
+2020-09-29 13:31:42.466240,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-29 13:33:34.479758,2025276865,DevOps Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-29 13:33:59.785574,2151453411,Operations Data Analyst,ING España&Portugal,True,True
+2020-09-29 13:34:29.123957,2151462759,Ingeniero de software,Clicars,True,False
+2020-09-29 13:34:44.616407,2150690825,Experto visión artificial / machine learning (Drones),everis,False,False
+2020-09-29 13:34:59.974853,2023877325,DevOps Cloud Engineer,Hiberus Tecnología,False,False
+2020-09-29 13:35:16.759677,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-29 13:36:55.549374,2023915044,Data Scientist,Endesa,False,False
+2020-09-29 13:37:11.463842,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-09-29 13:37:39.327806,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-29 13:37:54.859278,2011690385,Data Architect & Data Engineer,Grupo Ontwice,False,False
+2020-09-29 13:38:10.644627,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-29 13:40:00.611166,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-09-29 13:40:16.492564,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-09-29 13:40:32.304270,2016947813,Big Data Analyst,Claire Joster,False,False
+2020-09-29 13:40:48.239878,2011268679,Business Analyst - Behaviour Driven Development (BDD),everis,False,False
+2020-09-29 13:41:04.011819,2173298905,Analista de Datos - Zity,Ferrovial,False,False
+2020-09-29 13:41:19.232957,2178599995,Data Analyst,Audalia Nexia,False,False
+2020-09-29 13:42:57.541371,2011648007,BI DEVELOPER SENIOR,IECISA,False,False
+2020-09-29 13:43:13.402063,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-29 13:43:28.729574,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-29 13:44:00.563103,2179523634,Analista BI,ADEREN,True,True
+2020-09-29 13:44:16.355444,2151273785,Business Intelligence Director,JUST EAT,False,False
+2020-09-29 13:44:47.497416,2025047485,Analista programador SAS,Quental,True,True
+2020-09-29 13:45:03.032925,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-29 13:46:42.613100,2150568609,System Engineer Cloud,IZERTIS,False,False
+2020-09-29 13:47:14.376758,2179682977,Senior Data Engineer,Winning,True,True
+2020-09-29 13:47:30.293327,2011328014,Technical Architect,Savana Médica,False,False
+2020-09-29 13:47:59.488781,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-09-29 13:48:15.241044,2011545333,Data Engineer,Business & Decision,False,False
+2020-09-29 13:48:31.493063,2151057146,Big Data Engineer,Bluetab Solutions,False,False
+2020-09-30 13:47:02.527784,2151485186,Data Engineer,Datatonic,True,False
+2020-09-30 13:47:19.155854,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-30 13:47:35.424761,2171681352,Arquitecto de datos,EVO Banco,False,False
+2020-09-30 13:47:51.884199,1862699758,Data Engineer y Experto BI,Ad Maiorem Consulting,False,False
+2020-09-30 13:48:07.669134,2151397692,Analista BI Funcional área Financiero. Ref.747,M2C Consulting,False,False
+2020-09-30 13:48:24.096643,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-30 13:48:56.367204,2179526751,Consultor ETL - SSIS,ADEREN,True,False
+2020-09-30 13:50:35.689883,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-09-30 13:50:51.016717,2151130502,Analista Programador React,GRUPO INVOIN,False,False
+2020-09-30 13:51:05.902423,2023877325,DevOps Cloud Engineer,Hiberus Tecnología,False,False
+2020-09-30 13:51:21.051784,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-09-30 13:51:36.174837,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-30 13:53:14.161156,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-30 13:53:38.915417,2151474796,Desarrollador/a Senior Power BI con inglés alto,Gfi España,True,True
+2020-09-30 13:54:08.424589,2151061551,Enterprise Data Architect,Beam Suntory,True,False
+2020-09-30 13:54:23.542179,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-09-30 13:54:38.397858,2151273785,Business Intelligence Director,JUST EAT,False,False
+2020-09-30 13:54:53.743011,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-30 13:55:08.935986,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-30 13:57:02.102609,2151485186,Data Engineer,Datatonic,True,False
+2020-09-30 13:57:18.192345,2150497607,Head of Data Science,Omnidoctor,False,False
+2020-09-30 14:09:31.206339,2151485186,Data Engineer,Datatonic,True,False
+2020-09-30 14:09:46.503752,2011249221,Consultor Senior Powercenter,Business & Decision,False,False
+2020-09-30 14:10:01.454618,1862699758,Data Engineer y Experto BI,Ad Maiorem Consulting,False,False
+2020-09-30 14:10:16.489891,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-09-30 14:10:33.080615,2151397692,Analista BI Funcional área Financiero. Ref.747,M2C Consulting,False,False
+2020-09-30 14:10:48.752741,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-09-30 14:11:17.776713,2179526751,Consultor ETL - SSIS,ADEREN,True,False
+2020-09-30 14:13:10.902063,2151485186,Data Engineer,Datatonic,True,False
+2020-09-30 14:13:25.715910,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-10-01 18:19:06.531518,2025276865,DevOps Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-10-01 18:19:38.383001,2183727329,Ingeniero de Datos Maestros,GRUPO SOLUTIO,True,True
+2020-10-01 18:20:10.797072,2179532714,Python developer,ADEREN,True,True
+2020-10-01 18:20:41.290601,2152152975,Python Developer,JOIFI,True,False
+2020-10-01 18:21:10.120715,2183374832,Desarrollador R,Quental,True,True
+2020-10-01 18:21:42.406299,2152130972,Ingeniero de datos,Innova-tsn,True,True
+2020-10-01 18:22:13.237177,2152165437,Senior Data Engineer,Business & Decision,True,True
+2020-10-01 18:24:06.428909,2179526751,Consultor ETL - SSIS,ADEREN,True,False
+2020-10-01 18:24:21.645347,1997488020,Data Governance Expert,ING España&Portugal,False,False
+2020-10-01 18:24:53.112316,2152149847,Data Engineer,Voicemod,True,True
+2020-10-01 18:25:08.045121,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-10-01 18:25:23.672734,2151397692,Analista BI Funcional área Financiero. Ref.747,M2C Consulting,False,False
+2020-10-01 18:25:39.122800,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-10-01 18:26:12.067330,2152136831,Arquitecto Big Data/Azure,Capgemini,True,True
+2020-10-01 18:27:50.081664,2179682977,Senior Data Engineer,Winning,False,False
+2020-10-01 18:28:15.538983,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,True,True
+2020-10-01 18:28:30.232006,2011137934,DATA ENGINEER SPARK + HADOOP,SICPA,False,False
+2020-10-01 18:28:45.123186,2152149847,Data Engineer,Voicemod,False,False
+2020-10-01 18:29:00.458178,2152130972,Ingeniero de datos,Innova-tsn,False,False
+2020-10-01 18:29:15.661492,2152165437,Senior Data Engineer,Business & Decision,False,False
+2020-10-01 18:29:31.127986,2150790878,C++ Software Engineer: Robotics & Automotive,eProsima,False,False
+2020-10-01 18:31:22.295621,2182262018,Data Analyst (remote),Citymapper,True,False
+2020-10-01 18:31:48.641245,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-10-01 18:32:03.888154,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-10-01 18:32:19.729671,2181773123,Data Analyst,Audalia Nexia,False,False
+2020-10-01 18:32:35.149999,2011363922,Data Analyst German Speaker,IQVIA,False,False
+2020-10-01 18:33:00.550421,2183841020,Analista de datos (H/M) con SQL. Sustitución Maternidad,ManpowerGroup,True,True
+2020-10-01 18:33:25.688951,2152064572,Senior Data Analyst,Grupo Ontwice,True,True
+2020-10-01 18:35:01.881168,2151220200,Ingenier@ Optimización TV,Arca.,False,False
+2020-10-01 18:35:17.313483,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-10-01 18:35:32.834006,2152149847,Data Engineer,Voicemod,False,False
+2020-10-01 18:35:48.091867,2011632696,Full Stack Developer,Viasat Telematics,False,False
+2020-10-01 18:36:04.042562,2151273785,Business Intelligence Director,JUST EAT,False,False
+2020-10-01 18:36:20.247184,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-10-01 18:36:35.830176,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-10-01 18:38:13.697943,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-01 18:38:29.234730,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-10-01 18:38:44.555638,1809141101,Junior Technology Consultant,Minsait,False,False
+2020-10-01 18:39:00.059266,2152149847,Data Engineer,Voicemod,False,False
+2020-10-01 18:39:15.176917,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-10-01 18:39:30.144906,2152165437,Senior Data Engineer,Business & Decision,False,False
+2020-10-02 10:10:57.844101,2152065004,Supply Chain & TXT Developer,IECISA,True,True
+2020-10-02 10:11:13.422153,2179523634,Analista BI,ADEREN,False,False
+2020-10-02 10:11:29.317064,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-10-02 10:11:44.835526,1997488020,Data Governance Expert,ING España&Portugal,False,False
+2020-10-02 10:12:00.282118,2170576530,Business&Strategy Senior Consultant (Servicios Financieros),Minsait,False,False
+2020-10-02 10:12:15.489154,2152149847,Data Engineer,Voicemod,False,False
+2020-10-02 10:12:30.794390,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-10-02 10:14:07.760445,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-02 10:14:22.782997,2152065004,Supply Chain & TXT Developer,IECISA,False,False
+2020-10-02 10:14:52.877639,2152169278,Consultor Senior ETL Talend,Business & Decision,True,False
+2020-10-02 10:15:08.882789,2150448658,BIG DATA ARCHITECT,Majorel Spain Job,False,False
+2020-10-02 10:15:24.514059,1997488020,Data Governance Expert,ING España&Portugal,False,False
+2020-10-02 10:15:39.747167,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-10-02 10:16:10.154944,2179526751,Consultor ETL - SSIS,ADEREN,True,True
+2020-10-02 10:17:47.292894,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-03 13:04:54.870183,2183727329,Ingeniero de Datos Maestros,GRUPO SOLUTIO,False,False
+2020-10-03 13:05:10.465071,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-10-03 13:05:26.778688,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-03 13:05:53.125271,2151218636,DevOps Engineer,INTITEK,True,True
+2020-10-03 13:06:08.622925,2152152975,Python Developer,JOIFI,False,False
+2020-10-03 13:06:34.843477,2163556501,Data Scientist Junior with Python,UST Global España,True,True
+2020-10-03 13:08:30.478263,2182262018,Data Analyst (remote),Citymapper,True,False
+2020-10-03 13:08:45.970793,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-10-03 13:09:19.517527,2183566245,Data Analyst,Keepler Data Tech,True,True
+2020-10-03 13:09:34.421521,2149566214,Senior CMC Data Analyst,mAbxience,False,False
+2020-10-03 13:10:00.375927,2157917208,IT Business Analyst - Insurance specialist,DXC Technology,True,True
+2020-10-03 13:10:15.920222,2173298905,Analista de Datos - Zity,Ferrovial,False,False
+2020-10-03 13:10:32.591805,2011706044,Banking Technical Lead,SoYou_Bankia,False,False
+2020-10-03 13:12:11.550606,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-03 13:14:49.804614,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-03 13:16:48.385871,1953168162,BI Developer,OSP – Otto Group Solution Provider,False,False
+2020-10-03 13:17:04.018021,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-03 13:17:34.020328,2151061551,Enterprise Data Architect,Beam Suntory,True,False
+2020-10-03 13:17:49.542342,2011727730,Consultores Junior TIC,ÁlamoConsulting,False,False
+2020-10-03 13:18:05.237224,1997488020,Data Governance Expert,ING España&Portugal,False,False
+2020-10-03 13:18:20.384693,2151273785,Business Intelligence Director,JUST EAT,False,False
+2020-10-03 13:18:35.261648,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-10-03 13:20:27.956643,2182262018,Data Analyst (remote),Citymapper,True,False
+2020-10-03 13:20:43.082553,2151398435,Analista de Datos Ref. 761,M2C Consulting,False,False
+2020-10-03 13:20:58.734043,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-10-03 13:21:13.532312,2149566214,Senior CMC Data Analyst,mAbxience,False,False
+2020-10-03 13:21:29.056288,2157917208,IT Business Analyst - Insurance specialist,DXC Technology,False,False
+2020-10-03 13:21:44.366105,2173298905,Analista de Datos - Zity,Ferrovial,False,False
+2020-10-03 13:21:59.095791,2011706044,Banking Technical Lead,SoYou_Bankia,False,False
+2020-10-03 13:23:34.426424,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-04 15:22:11.657413,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-04 15:22:28.158835,2011137934,DATA ENGINEER SPARK + HADOOP,SICPA,False,False
+2020-10-04 15:22:56.302931,1996438065,Data Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-10-04 15:23:11.134316,2152149847,Data Engineer,Voicemod - We're Hiring!,False,False
+2020-10-04 15:23:26.647411,2151057146,Big Data Engineer,Bluetab Solutions,False,False
+2020-10-04 15:23:51.979108,2184186235,Data Scientist / ML Engineer,Decathlon Deutschland,True,False
+2020-10-04 15:24:07.404914,2152165437,Senior Data Engineer,Business & Decision,False,False
+2020-10-04 15:25:45.350078,2183727329,Ingeniero de Datos Maestros,GRUPO SOLUTIO,False,False
+2020-10-04 15:26:01.275073,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-10-04 15:26:17.359567,2023877325,DevOps Cloud Engineer,Hiberus Tecnología,False,False
+2020-10-04 15:26:32.217747,2152152975,Python Developer,JOIFI,False,False
+2020-10-04 15:26:47.572496,2183374832,Desarrollador R,Quental,False,False
+2020-10-04 15:27:02.234399,2163556501,Data Scientist Junior with Python,UST Global España,False,False
+2020-10-04 15:27:17.582987,2152130972,Ingeniero de datos,Innova-tsn,False,False
+2020-10-04 15:29:08.285350,2182262018,Data Analyst (remote),Citymapper,True,False
+2020-10-04 15:29:22.853542,2151398435,Analista de Datos Ref. 761,M2C Consulting,False,False
+2020-10-04 15:29:38.016648,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-10-04 15:29:53.180780,2183566245,Data Analyst,Keepler Data Tech,False,False
+2020-10-04 15:30:08.832444,2157917208,IT Business Analyst - Insurance specialist,DXC Technology,False,False
+2020-10-04 15:30:24.224774,2173298905,Analista de Datos - Zity,Ferrovial,False,False
