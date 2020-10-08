@@ -1115,3 +1115,94 @@ timestamp,jobID,job,company,attempted,result
 2020-10-04 15:29:53.180780,2183566245,Data Analyst,Keepler Data Tech,False,False
 2020-10-04 15:30:08.832444,2157917208,IT Business Analyst - Insurance specialist,DXC Technology,False,False
 2020-10-04 15:30:24.224774,2173298905,Analista de Datos - Zity,Ferrovial,False,False
+2020-10-05 13:04:07.367617,1953168162,BI Developer,OSP – Otto Group Solution Provider,False,False
+2020-10-05 13:06:40.411035,1953168162,BI Developer,OSP – Otto Group Solution Provider,False,False
+2020-10-05 13:07:04.709116,2185334755,Consultores/as BI - Qlikview,Minsait,True,True
+2020-10-05 13:07:18.865940,2152065004,Supply Chain & TXT Developer,IECISA,False,False
+2020-10-05 13:07:43.245345,2159881458,Ingeniero de datos,atSistemas,True,True
+2020-10-05 13:08:08.268596,2159875827,Consultor Power BI,Avansis,True,True
+2020-10-05 13:08:23.788601,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-10-05 13:08:39.149566,2179526751,Consultor ETL - SSIS,ADEREN,False,False
+2020-10-05 13:10:30.693832,2182262018,Data Analyst (remote),Citymapper,True,False
+2020-10-05 13:10:45.934006,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-10-05 13:11:01.226157,2183566245,Data Analyst,Keepler Data Tech,False,False
+2020-10-05 13:11:16.112928,2149566214,Senior CMC Data Analyst,mAbxience,False,False
+2020-10-05 13:11:40.329939,2159873303,Business Analyst - Behaviour Driven Development (BDD),everis,True,True
+2020-10-05 13:11:55.281650,2157917208,IT Business Analyst - Insurance specialist,DXC Technology,False,False
+2020-10-05 13:12:27.248926,2159878364,APPLICATION: ANALISTA DE DATOS JUNIOR,Implemental Systems,True,True
+2020-10-05 13:14:03.260007,1953168162,BI Developer,OSP – Otto Group Solution Provider,False,False
+2020-10-06 13:05:43.451488,2162375815,Data Engineer,Akka Technologies,True,True
+2020-10-06 13:06:16.528064,2178738217,C++/3D Graphics Software Engineer,SEDDI,True,True
+2020-10-06 13:08:10.103194,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-06 13:08:40.522744,2151061551,Enterprise Data Architect,Beam Suntory,True,False
+2020-10-06 13:09:05.877958,2162382706,Supply Chain Developer (inglés alto),Randstad España,True,True
+2020-10-06 13:09:20.884873,1997488020,Data Governance Expert,ING España&Portugal,False,False
+2020-10-06 13:09:45.745115,2185530427,Data Engineer,Audiense,True,True
+2020-10-06 13:10:16.596226,2152169278,Consultor Senior ETL Talend,Business & Decision,True,False
+2020-10-06 13:10:31.226790,2179526751,Consultor ETL - SSIS,ADEREN,False,False
+2020-10-06 13:12:07.796255,2162375815,Data Engineer,Akka Technologies,False,False
+2020-10-06 13:12:22.849672,2178738217,C++/3D Graphics Software Engineer,SEDDI,False,False
+2020-10-07 13:31:21.445381,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-07 13:35:19.225006,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-10-07 13:35:45.755548,2185347790,Data Scientist + Amazon SageMaker,Minsait,True,True
+2020-10-07 13:36:02.070142,2163556501,Data Scientist Junior with Python,UST Global España,False,False
+2020-10-07 13:36:27.317121,2164711606,Data Scientist,DataCentric PDM,True,True
+2020-10-07 13:37:12.244040,2179623799,Senior Data Engineer,Stuart,True,False
+2020-10-07 13:37:28.294347,2185530427,Data Engineer,Audiense,False,False
+2020-10-07 13:37:53.467766,2190879581,Data Scientist,"Optimissa, Capital Markets Consulting",True,True
+2020-10-07 13:42:50.319553,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-10-07 13:43:05.883773,2185347790,Data Scientist + Amazon SageMaker,Minsait,False,False
+2020-10-07 13:43:21.675040,2163556501,Data Scientist Junior with Python,UST Global España,False,False
+2020-10-07 13:43:36.915310,2164711606,Data Scientist,DataCentric PDM,False,False
+2020-10-07 13:44:22.123461,2179623799,Senior Data Engineer,Stuart,True,False
+2020-10-07 13:44:37.536335,2185530427,Data Engineer,Audiense,False,False
+2020-10-07 13:44:52.649929,2190879581,Data Scientist,"Optimissa, Capital Markets Consulting",False,False
+2020-10-07 13:46:43.298832,2162380450,Visualización Azure Power Bi,everis,True,True
+2020-10-07 13:46:59.397246,2185334755,Consultores/as BI - Qlikview,Minsait,False,False
+2020-10-07 13:47:26.258960,2164772484,Recién Titulados Desarrollo de Aplicaciones Web,Grupo ICA,True,True
+2020-10-07 13:47:41.935273,2150330727,Power BI Consultant,Bluetab Solutions,False,False
+2020-10-07 13:48:13.899260,2151061551,Enterprise Data Architect,Beam Suntory,True,False
+2020-10-07 13:48:40.481085,2164722520,Consultores Junior TIC,ÁlamoConsulting,True,True
+2020-10-07 13:48:56.029426,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-10-07 13:50:34.969775,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-08 13:28:46.886580,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-08 13:29:02.891734,2150705548,DataStage Consultant,Altran,False,False
+2020-10-08 13:29:34.062506,1990942383,Data Engineer,Montarelo Consulting,True,False
+2020-10-08 13:30:06.543270,2025105839,Consultor/a Senior Gobierno del Dato,VIEWNEXT,True,True
+2020-10-08 13:30:36.674541,2011585138,BI DEVELOPER,Altran,True,False
+2020-10-08 13:30:52.484196,1912377274,EXPERTO EN SNOWFLAKE,FDS a DXC Technology Company,False,False
+2020-10-08 13:31:08.489088,2152136831,Arquitecto Big Data/Azure,Capgemini,False,False
+2020-10-08 13:33:02.066296,2151463625,DevOps - ELK,Logicalis Spain,True,True
+2020-10-08 13:33:17.213869,2151153419,Senior Data Scientist,Innova-tsn,False,False
+2020-10-08 13:33:42.041328,2155714286,"Ingeniero DevOps, AWS, Big Data",UST Global España,True,True
+2020-10-08 13:34:06.614729,2162384048,Cloud Data Engineer AWS,everis,True,True
+2020-10-08 13:34:33.311776,2190884209,Green Desk & Front Office Analyst,EDP Renewables,True,True
+2020-10-08 13:35:00.324552,2014049399,Web QA Automation Engineer,Ryanair - Europe's Favourite Airline,True,False
+2020-10-08 13:35:25.293181,1901112860,Computational Linguist,Lionbridge,True,True
+2020-10-08 13:37:12.008693,2194236930,Data Scientist - Advanced Analytics,Endesa,True,True
+2020-10-08 13:37:39.631988,2193296226,Data Engineer (Remote),Cloudbeds,True,False
+2020-10-08 13:37:54.901068,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-08 13:38:10.342794,2185347790,Data Scientist + Amazon SageMaker,Minsait,False,False
+2020-10-08 13:38:26.409012,2011666165,Senior Data Scientist,Paradigma Digital,False,False
+2020-10-08 13:38:57.356390,2189182205,Senior Data Engineer,Ontruck,True,False
+2020-10-08 13:40:34.126233,2152070019,Junior Data Engineer (0 - 2 years experience) at Wavespace Artificial Intelligence Center,EY,False,False
+2020-10-08 13:40:49.494773,2164772484,Recién Titulados Desarrollo de Aplicaciones Web,Grupo ICA,False,False
+2020-10-08 13:41:13.818214,2193796429,Business Development Manager,MAPAL Software,True,True
+2020-10-08 13:41:43.441127,2001914964,Full Stack Developer,Efficy,True,False
+2020-10-08 13:42:27.927032,2179623799,Senior Data Engineer,Stuart,True,False
+2020-10-08 13:42:43.007594,2164722520,Consultores Junior TIC,ÁlamoConsulting,False,False
+2020-10-08 13:42:57.718330,2151646046,Business Intelligence DataWarehouse,Ryanair - Europe's Favourite Airline,False,False
+2020-10-08 13:44:45.623035,2152084133,Full time Internship Data Scientist-Client Services,IQVIA Spain,True,True
+2020-10-08 13:45:01.817520,2162375815,Data Engineer,Akka Technologies,False,False
+2020-10-08 13:45:26.373092,2164799084,Senior Data Engineer,Paradigma Digital,True,True
+2020-10-08 13:45:40.861153,2185347790,Data Scientist + Amazon SageMaker,Minsait,False,False
+2020-10-08 13:46:22.930253,2179623799,Senior Data Engineer,Stuart,True,False
+2020-10-08 13:46:37.742350,2151057146,Big Data Engineer,Bluetab Solutions,False,False
+2020-10-08 13:47:03.191271,2166012476,"Big Data Engineer, Apache Spark, Scala",UST Global España,True,True
+2020-10-08 13:48:40.336105,2151453411,Operations Data Analyst,ING España&Portugal,False,False
+2020-10-08 13:49:06.574316,2024633411,Data Analyst Sr. at Circus MAD,MediaMonks,True,False
+2020-10-08 13:49:31.219687,2159871431,Ingeniero/a Analista de datos,ISDEFE,True,True
+2020-10-08 13:49:56.000957,2170905992,Agile Business Analyst Banking Product - Contrato en prácticas,Orange Bank,True,True
+2020-10-08 13:50:19.828806,2164765011,Data Analyst (Salesforce Einstein Analytics),Altran,True,True
+2020-10-08 13:50:34.964484,2157917208,IT Business Analyst - Insurance specialist,DXC Technology,False,False
+2020-10-08 13:51:05.408713,2180030585,SEO MANAGER & DIGITAL ANALYST,ZINET MEDIA GROUP,True,False
